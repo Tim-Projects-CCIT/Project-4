@@ -1,0 +1,9 @@
+package Query;
+
+public class TransactionQuery {
+    public String get = "SELECT * FROM transactions;";
+    public String create = "INSERT INTO transactions (admin_id, product_id, type, total_items) VALUES (?, ?, ?, ?)";
+    public String getById = "SELECT * FROM transactions where id = ?";   
+    public String delete = "DELETE FROM transactions WHERE id = ?";
+
+}
