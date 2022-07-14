@@ -1,8 +1,3 @@
-<%-- 
-    Document   : create
-    Created on : Jun 29, 2022, 10:59:12 PM
-    Author     : Hudya
---%>
 
 <%@page import="Controller.ProductController"%>
 <%@page import="java.sql.ResultSet"%>
