@@ -1,7 +1,7 @@
 file 
 JSP : 
 create product  : Rifaldlee
-crete transaction
+crete transaction : ade
 edit product : Rifaldlee
 login : Sufiyan Tsauri
 product : Rifaldlee
@@ -22,7 +22,7 @@ string helper
 
 Model :
 product model : Rifaldlee
-transaction model
+transaction model : ade
 
 Query : 
 admin Query : Sufiyan Tsauri
